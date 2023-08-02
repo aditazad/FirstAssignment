@@ -1,6 +1,6 @@
 void main(){
-  int a = 10;
-  int b = 15;
+  const int a = 10;
+  const int b = 15;
   print("a = 10, b = 15");
 
   int c = a+b;
